@@ -16,6 +16,7 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
+    //variables
     private EditText workInputHours, workInputMinutes, workInputSeconds, setsInput;
     private EditText restInputHours, restInputMinutes, restInputSeconds;
     private TextView helperText, countDownText, setStatus;
